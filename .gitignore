@@ -1,0 +1,14 @@
+# Ignore system files
+*.DS_Store
+*.log
+
+# Ignore node_modules
+node_modules/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore miscellaneous
+*.swp
+*.swo
