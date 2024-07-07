@@ -1,5 +1,11 @@
 ![Mr. Robot Typography](https://www.pixel4k.com/wp-content/uploads/2020/01/are-you-a-one-or-a-zero-mr-robot-typography_1577915108.jpg.webp)
 
+
+
+[![HitCount](http://hits.dwyl.com/f141ne0/Cybersecurity-Journey.svg)](http://hits.dwyl.com/f141ne0/Cybersecurity-Journey)
+![GitHub stars](https://img.shields.io/github/stars/f141ne0/Cybersecurity-Journey?style=social)
+
+
 # My Cybersecurity Journey 
 
 Welcome to my Cybersecurity Journey repository! This repository serves as a record of my progress, learnings, and achievements in the field of cybersecurity, particularly through Capture The Flag (CTF) challenges.
