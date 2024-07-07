@@ -3,11 +3,15 @@
 
 ### 500+ Videos
 
+![Complete Ethical Hacking Course Screenshot](/home/nijith/Pictures/Screenshot_20240707_131651.png)
+
 [Access the Course](https://drive.google.com/drive/folders/1mZwaNmPJB6OcGf-lSejIvbU8y2YxjDt4)
 
 ---
 
 # TCMSecurity - Open Source Intelligence (OSINT) Fundamentals
+
+![TCMSecurity - OSINT Fundamentals Screenshot](/home/nijith/Pictures/Screenshot_20240707_131811.png)
 
 **Features of This Course:**
 - OSINT Overview
