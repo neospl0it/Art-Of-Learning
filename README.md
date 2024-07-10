@@ -1,4 +1,4 @@
-![Mr. Robot Typography](https://www.pixel4k.com/wp-content/uploads/2020/01/are-you-a-one-or-a-zero-mr-robot-typography_1577915108.jpg.webp)
+<img src="https://www.pixel4k.com/wp-content/uploads/2020/01/are-you-a-one-or-a-zero-mr-robot-typography_1577915108.jpg.webp" style="width: 1900px; height: 300px;">
 
 # My Cybersecurity Journey
 
